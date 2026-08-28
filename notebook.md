@@ -4,7 +4,50 @@
 - [Headings](#headings)
 - [Text Formatting](#text-formatting)
 
------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Markdown Style Guide for Coding Notebooks
 
