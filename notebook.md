@@ -22,6 +22,7 @@
 <details>
   <summary>sequencing</summary>
     The order things happen in.
+    </details>
 
     <details>
   <summary>selection	</summary>
@@ -33,6 +34,7 @@
 <details>
   <summary>iteration</summary>
     Iterating in loops is to systematically move through each item in a set of data. Executing code for each item is an iteration of the code. Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+    </details>
     
 
 
