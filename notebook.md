@@ -25,11 +25,17 @@
 
     Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
 </details>
+ <summary>selection	</summary>
+    Step-by-step instructions. 
+  
+    The point where decisions are made in an algorithm.
+</details>
+<summary>iteration	</summary>
+Iterating in loops is to systematically move through each item in a set of data. Executing code for each item is an iteration of the code. Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+    
 
-Definition of technology: Technology is the application of scientific knowledge, tools, and methods to solve problems and achieve practical goals.
 
 
-Definition of energy: Energy is the capacity to do work or cause physical change.
  
 
 ## Code Examples
