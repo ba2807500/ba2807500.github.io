@@ -31,7 +31,7 @@
 
  <details>
    <summary>selection	</summary>
-    Step-by-step instructions. 
+    The point where decisions are made in an algorithm. 
   
      Example: The point where decisions are made in an algorithm.
 </details>
