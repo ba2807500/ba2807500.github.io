@@ -16,8 +16,7 @@ I am 14 years old, interested in PCs and technology, games and hanging out
 I like watching horror movies or zombie series like The Walking Dead
 I like riding bike and I can do a few tricks too
 I play soccer and basketball. 
-My favorite type of food is mexican, american and chilean
-
+My favorite type of food is Chilean, Italian, and mexican.
 ## Navigation
 
 [Notebook](notebook.md)
