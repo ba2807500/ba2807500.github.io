@@ -4,7 +4,7 @@
 
 - Project 1: Description
 
-- Project 2: Description
+- Project 2:[ Engineering notebook](https://github.com/ba2807500/ba2807500.github.io/blob/main/engineering-notebook.md)
 
 ## About Me
 
