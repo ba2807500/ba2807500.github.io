@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: [Vex-vr project](https://github.com/ba2807500/ba2807500.github.io/)
+- Project 1: [Vex-vr project](https://github.com/ba2807500/ba2807500.github.io/blob/main/vex-vr.md/)
 
 - Project 2: → [ Engineering notebook](https://github.com/ba2807500/ba2807500.github.io/blob/main/engineering-notebook.md)
 
